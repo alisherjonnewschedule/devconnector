@@ -1,0 +1,9 @@
+*.~
+node_modules/
+Dockerfile
+.dockerignore
+client/node_modules
+client/Dockerfile
+client/Dockerfile.prod
+client/dockerignore
+client/nginx.conf
