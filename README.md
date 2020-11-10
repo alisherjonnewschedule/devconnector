@@ -1,1 +1,1 @@
-#[Live Demo!](https://devconnectorofbrad.herokuapp.com/)#
+[Live Demo!](https://devconnectorofbrad.herokuapp.com/)
